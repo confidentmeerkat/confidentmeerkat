@@ -6,7 +6,7 @@ As a full stack developer, I have 7 years of experience in web development.
 
 <br>
 
-<h3>I always produce best result.</h3>
+<h3>I always produce the best result.</h3>
 
 <br>
 
