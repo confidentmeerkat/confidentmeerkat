@@ -183,8 +183,8 @@ As a full stack developer, I have 7 years of experience in web development.
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
 <br>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&loc_metric=changed)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/repos?time_range=one_year&include_private=True&loc_metric=changed)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
 
 </details>
