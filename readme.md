@@ -183,7 +183,7 @@ As a full stack developer, I have 7 years of experience in web development.
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
 <br>
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
+<div style="display:flex;flex-direction:row;justify-content:center">
   
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/repos?)](https://githubtrends.io)
 
