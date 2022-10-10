@@ -184,6 +184,7 @@ As a full stack developer, I have 7 years of experience in web development.
 <br>
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
+  
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/repos?)](https://githubtrends.io)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/confidentmeerkat/langs)](https://githubtrends.io)
