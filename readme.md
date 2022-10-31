@@ -1,6 +1,6 @@
 ##  Thank you for taking your time to visit my profile.
 
-<span><b>[ React / Next.js / Vue.js / Svelte.js / TypeScript / Node.js / Express / GraphQL ]</b></span>
+<span><b>[ Golang / Gin / React / Next.js / Vue.js / Svelte.js / TypeScript / Node.js / Express / GraphQL ]</b></span>
 
 As a full stack developer, I have 7 years of experience in web development.
 
@@ -178,7 +178,7 @@ As a full stack developer, I have 7 years of experience in web development.
 ## Core skills
 
 ✔ <b>Front-end</b> : React js / Next.js / TypeScript / Vue.js / TailwindCSS / Material UI <br>
-✔ <b>Back-end</b> : Node.js / Express / Nest.js / Django / Laravel  <br>
+✔ <b>Back-end</b> : Golang / Gin / Node.js / Express / Nest.js / Django / Laravel  <br>
 ✔ <b>Database</b> : Mysql / PostgreSQL /MongoDB <br>
 ✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
 <br>
